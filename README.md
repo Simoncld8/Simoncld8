@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Simon
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science and data engineering
 - 🌱 I've recently completed an intensive training program in data science and data engineering at Jedha
 - 💞️ I’m looking to collaborate on a projects with environmental and social impact
 
